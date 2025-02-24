@@ -23,7 +23,7 @@ export default function App() {
     {
       name: 'Charmander',
       image: require("../comp2/assets/poki.png"),
-      type: 'fire',
+      type: 'grass',
       hp: 39,
       moves: ["scratch", "ember", "glow", "leer"],
       weakness: ['water', 'rock'],
